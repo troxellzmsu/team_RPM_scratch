@@ -1,0 +1,14 @@
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/bin/Debug/netstandard2.0/Hello_World.deps.json
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/bin/Debug/netstandard2.0/Hello_World.dll
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/bin/Debug/netstandard2.0/ref/Hello_World.dll
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/bin/Debug/netstandard2.0/Hello_World.pdb
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/obj/Debug/netstandard2.0/Hello_World.csproj.AssemblyReference.cache
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/obj/Debug/netstandard2.0/Hello_World.AssemblyInfoInputs.cache
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/obj/Debug/netstandard2.0/Hello_World.AssemblyInfo.cs
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/obj/Debug/netstandard2.0/Hello_World.csproj.CoreCompileInputs.cache
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/obj/Debug/netstandard2.0/Hello_World.dll
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/obj/Debug/netstandard2.0/ref/Hello_World.dll
+/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/obj/Debug/netstandard2.0/Hello_World.pdb
