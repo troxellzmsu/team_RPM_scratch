@@ -12,7 +12,7 @@ embedassembliesintoapk=false
 androidlinkmode=none
 androidlinkskip=
 androidsdkbuildtoolsversion=32.0.0
-androidsdkpath=/users/cse498/library/developer/xamarin/android-sdk-macosx/
+androidsdkpath=/users/zach/library/developer/xamarin/android-sdk-macosx/
 androidndkpath=
 javasdkpath=/library/java/javavirtualmachines/microsoft-11.jdk/contents/home/
 androidsequencepointsmode=none
@@ -25,7 +25,7 @@ androidgeneratejnimarshalmethods=false
 os=unix
 androidincludedebugsymbols=true
 androidpackagenamingpolicy=lowercasecrc64
-_nugetassetstimestamp=637980816023918931
+_nugetassetstimestamp=637987629520599965
 typemapkind=strings-asm
 androidsupportedabis=arm64-v8a
 armeabi-v7a

@@ -1,16 +1,7 @@
 ﻿<Properties StartupConfiguration="{36D265F9-A1E5-4532-9015-7C991DCAD844}|Default" GitUserInfo="UsingMD">
-  <MonoDevelop.Ide.ItemProperties.Hello__World.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.21557ACB-EAF0-4EC5-8CC5-5C69048AAB38" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Hello__World.Android PreferredExecutionTarget="Android.pixel_5_-_api_31" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_31" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Hello_World/Hello_World/MainPage.xaml.cs">
     <Files>
-      <File FileName="Hello_World/Hello_World/MainPage.xaml.cs" Line="10" Column="2" />
+      <File FileName="Hello_World/Hello_World/MainPage.xaml.cs" Line="42" Column="1" />
       <File FileName="Hello_World/Hello_World/MainPage.xaml" Line="12" Column="97" />
       <File FileName="Hello_World/Hello_World/App.xaml" Line="1" Column="1" />
       <File FileName="Hello_World/Hello_World/App.xaml.cs" Line="18" Column="10" />
@@ -33,5 +24,14 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Hello__World.Android PreferredExecutionTarget="Android.Nexus_7_API_23" />
+  <MonoDevelop.Ide.ItemProperties.Hello__World.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.21557ACB-EAF0-4EC5-8CC5-5C69048AAB38" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.MonoDroid LastDeploySdkVersion="13.0.0.0" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Nexus_7_API_23" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

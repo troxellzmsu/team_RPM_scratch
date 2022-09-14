@@ -34,6 +34,12 @@ namespace Hello_World
             score += 10;
             Points.Text = "Points: " + score;
         }
+
+        public async void Reward_Clicked(object sender, EventArgs args)
+        {
+            string result = await DisplayPromptAsync("Confirm Purchase", "Type \"CONFIRM\" to confirm the purchase.");
+        }
+
         private StackLayout CreateRewardBox(Reward reward)
         {
             StackLayout rewardBox = new StackLayout();
@@ -42,6 +48,7 @@ namespace Hello_World
             label.Text = reward.getName() + " " + reward.getRewardDescription();
             label.FontSize = 14;
             rewardBox.Children.Add(label);
+            label.Clicked += Reward_Clicked;
 
 
             return rewardBox;
