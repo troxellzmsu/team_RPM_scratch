@@ -1264,3 +1264,6 @@
 /Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/obj/Debug/res/drawable/starbucks.png
+/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/obj/Debug/res/drawable/lowes.jpg
+/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/obj/Debug/res/drawable/dunkin.jpg
