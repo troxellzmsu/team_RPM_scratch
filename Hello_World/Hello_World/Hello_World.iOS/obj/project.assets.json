@@ -982,20 +982,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/cse498/.nuget/packages/": {}
+    "/Users/zach/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World.iOS/Hello_World.iOS.csproj",
+      "projectUniqueName": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.iOS/Hello_World.iOS.csproj",
       "projectName": "Hello_World.iOS",
-      "projectPath": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World.iOS/Hello_World.iOS.csproj",
-      "packagesPath": "/Users/cse498/.nuget/packages/",
-      "outputPath": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World.iOS/obj/",
+      "projectPath": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.iOS/Hello_World.iOS.csproj",
+      "packagesPath": "/Users/zach/.nuget/packages/",
+      "outputPath": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/cse498/.config/NuGet/NuGet.Config"
+        "/Users/zach/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
@@ -1006,8 +1006,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/Hello_World.csproj": {
-              "projectPath": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/Hello_World.csproj"
+            "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World/Hello_World.csproj": {
+              "projectPath": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World/Hello_World.csproj"
             }
           }
         }

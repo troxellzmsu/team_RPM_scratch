@@ -3172,20 +3172,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/cse498/.nuget/packages/": {}
+    "/Users/zach/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World.Android/Hello_World.Android.csproj",
+      "projectUniqueName": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/Hello_World.Android.csproj",
       "projectName": "Hello_World.Android",
-      "projectPath": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World.Android/Hello_World.Android.csproj",
-      "packagesPath": "/Users/cse498/.nuget/packages/",
-      "outputPath": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World.Android/obj/",
+      "projectPath": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/Hello_World.Android.csproj",
+      "packagesPath": "/Users/zach/.nuget/packages/",
+      "outputPath": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "/Users/cse498/.config/NuGet/NuGet.Config"
+        "/Users/zach/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid12.0"
@@ -3196,8 +3196,8 @@
       "frameworks": {
         "monoandroid12.0": {
           "projectReferences": {
-            "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/Hello_World.csproj": {
-              "projectPath": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/Hello_World.csproj"
+            "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World/Hello_World.csproj": {
+              "projectPath": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World/Hello_World.csproj"
             }
           }
         }

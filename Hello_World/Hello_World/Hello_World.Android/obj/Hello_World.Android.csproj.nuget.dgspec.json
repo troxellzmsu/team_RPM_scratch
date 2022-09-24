@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World.Android/Hello_World.Android.csproj": {}
+    "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/Hello_World.Android.csproj": {}
   },
   "projects": {
-    "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World.Android/Hello_World.Android.csproj": {
+    "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/Hello_World.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World.Android/Hello_World.Android.csproj",
+        "projectUniqueName": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/Hello_World.Android.csproj",
         "projectName": "Hello_World.Android",
-        "projectPath": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World.Android/Hello_World.Android.csproj",
-        "packagesPath": "/Users/cse498/.nuget/packages/",
-        "outputPath": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World.Android/obj/",
+        "projectPath": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/Hello_World.Android.csproj",
+        "packagesPath": "/Users/zach/.nuget/packages/",
+        "outputPath": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/cse498/.config/NuGet/NuGet.Config"
+          "/Users/zach/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid12.0"
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/Hello_World.csproj": {
-                "projectPath": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/Hello_World.csproj"
+              "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World/Hello_World.csproj": {
+                "projectPath": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World/Hello_World.csproj"
               }
             }
           }
@@ -48,22 +48,23 @@
         }
       }
     },
-    "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/Hello_World.csproj": {
+    "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World/Hello_World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/Hello_World.csproj",
+        "projectUniqueName": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World/Hello_World.csproj",
         "projectName": "Hello_World",
-        "projectPath": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/Hello_World.csproj",
-        "packagesPath": "/Users/cse498/.nuget/packages/",
-        "outputPath": "/Users/cse498/Desktop/Hello_World/Hello_World/Hello_World/obj/",
+        "projectPath": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World/Hello_World.csproj",
+        "packagesPath": "/Users/zach/.nuget/packages/",
+        "outputPath": "/Users/zach/Projects/team_RPM_scratch/Hello_World/Hello_World/Hello_World/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/cse498/.config/NuGet/NuGet.Config"
+          "/Users/zach/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -107,7 +108,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.422/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
         }
       }
     }
